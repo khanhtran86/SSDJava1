@@ -1,0 +1,7 @@
+Trong trường học có cả sinh viên trong nước và sinh viên nước ngoài với các thông tin Hoten, NoiSinh, ChuyenNganh (ToanHoc, VanHoc, ThienVanHoc)
+
+Với sinh viên nước ngoài thì quản lý thêm thông tin về QuocTich
+
+Hãy viết chương trình quản lý thông tin sinh viên cho trường học này với các phương thức
+1. Thêm mới sinh viên
+2. Có khả năng đưa ra sinh viên thuộc ngành học bất kỳ (không phân biệt sv nước ngoài hay trong nước).
