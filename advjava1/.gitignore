@@ -9,6 +9,7 @@ target/
 *.iml
 *.ipr
 *.cpp2
+*.cpp1
 
 ### Eclipse ###
 .apt_generated
